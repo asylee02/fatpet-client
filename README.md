@@ -15,7 +15,6 @@
 
 개발 포지션 : 프론트엔드
 
-기술 스택 : React, Typescript, TailwindCss, Zustand, react-form-hook, Amplify
 
 ### 기능
 
